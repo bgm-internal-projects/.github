@@ -26,4 +26,4 @@
 | 名稱 | 專案代號 | 專案類型 | 命名結果 |
 |-|-|-|-|
 | 花米助手 | flower-me | mono | product-flower-me-mono |
-| 展示 3D 技術，以精靈球為例 | pokeball-workshop | web | pokeball-workshop-web |
+| 展示 3D 技術，以精靈球為例 | pokeball-workshop | web | product-pokeball-workshop-web |
