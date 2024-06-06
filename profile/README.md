@@ -31,6 +31,6 @@
 |-|-|-|-|-|
 | 花米助手 | product | flower-me | mono | product-flower-me-mono |
 | 展示 3D 技術，以精靈球為例 | showcase  | pokeball-workshop | web | showcase-pokeball-workshop-web |
-| 優惠模組 | util | promotion-module | module | util-promotion-module（module 重複出現可以省略） |
+| 優惠模組 | util | promotion-module | module | util-promotion-module-module |
 | 自用 nestjs-devtools | util  | nestjs-devtools | web | util-nestjs-devtools-web |
 | 自用 tinymce | util  | tinymce | module | util-tinymce-module |
