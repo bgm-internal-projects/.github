@@ -14,7 +14,7 @@
 
 例如：
 
-| 名稱 | 種類 | 專案類型 | 實驗內容 | 命名結果 |
+| 名稱 | 種類 | 專案類型 | 專案代號 | 命名結果 |
 |-|-|-|-|-|
 | Quasar、Vite 開發模板 | template | web | vite-vue3-quasar2-ts | template-web-vite-vue3-quasar2-ts |
 | 實驗 Capacitor、Vue 建立手機 App | test | mobile | capacitor-vue | test-mobile-capacitor-vue |
