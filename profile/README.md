@@ -31,9 +31,9 @@
 
 | 名稱 | 種類 | 專案代號 | 專案類型 | 命名結果 |
 |-|-|-|-|-|
-| 花米助手 | product | flower-me | mono | product-flower-me-mono |
-| 展示 3D 技術，以精靈球為例 | showcase  | pokeball-workshop | web | showcase-pokeball-workshop-web |
 | 中國信託刷卡服務 | microservice | ctbc-pos-auth | service | microservice-ctbc-pos-auth-service |
+| 酷存助手 | product | flower-me | mono | product-flower-me-mono |
+| 展示 3D 技術，以精靈球為例 | showcase  | pokeball-workshop | web | showcase-pokeball-workshop-web |
 | 背景模式官網 | showcase  | bgmotion | web | showcase-bgmotion-web |
 | 優惠模組 | util | promotion-module | module | util-promotion-module-module |
 | 自用 nestjs-devtools | util  | nestjs-devtools | web | util-nestjs-devtools-web |
