@@ -31,7 +31,7 @@
 
 | 名稱 | 種類 | 專案代號 | 專案類型 | 命名結果 |
 |-|-|-|-|-|
-| 中國信託刷卡服務 | microservice | ctbc-pos-auth | service | microservice-ctbc-pos-auth-service |
+| 中國信託線上刷卡壓碼加密元件 | microservice | ctbc-pos-encryption | module | microservice-ctbc-pos-encryption-module |
 | 酷存助手 | product | flower-me | mono | product-flower-me-mono |
 | 展示 3D 技術，以精靈球為例 | showcase  | pokeball-workshop | web | showcase-pokeball-workshop-web |
 | 背景模式官網 | showcase  | bgmotion | web | showcase-bgmotion-web |
