@@ -20,6 +20,7 @@
 | 實驗 Capacitor、Vue 建立手機 App | test | mobile | capacitor-vue | test-mobile-capacitor-vue |
 | 實驗 Electron、Vue | test | desktop | electron-vue | test-desktop-capacitor-vue |
 | 測試優惠組合模組可行性 | test | module | promotional-system | test-module-promotional-system |
+| 實驗 NuxtHub | test | cms | nuxt-hub | test-cms-nuxt-hub |
 
 ### 內部產品、技術展示
 
